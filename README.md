@@ -12,6 +12,8 @@ I said earlier that digitalized means not keeping a soft copy of that card in yo
 
 Python 3.12.2
 
+Streamlit
+
 MYSQL
 
 **##🧑‍💻 Process**
