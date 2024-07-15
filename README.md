@@ -17,6 +17,7 @@ Streamlit
 MYSQL
 
 **##🧑‍💻 Process**
+
 1.Upload the Image in webpage
 
 2.Its has a feature of extracted the data in card by using EASYOCR.
