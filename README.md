@@ -8,6 +8,10 @@ And Here is the solution i found is to digitalized the physical card . All we kn
 lets see the working principle of webpage i have created so far .
 I said earlier that digitalized means not keeping a soft copy of that card in your device. Because it not much convinent when want to look at soft copy ,similarly we could not update the future details.
 
+🛠 Technology and Tools
+Python 3.12.2
+MYSQL
+
 **##🧑‍💻 Process**
 1.Upload the Image in webpage
 
